@@ -9,3 +9,12 @@ Citizen.CreateThread(function()
     AddTextEntry('PM_SCR_STA', '~p~Estadística')
     AddTextEntry('PM_SCR_RPL', '~p~Editor')
   end)
+
+--Colores 
+  --  ~w~ Blanco
+  --  ~r~ Rojo
+  --  ~g~ Verde
+  --  ~y~ Amarillo 
+  --  ~b~ Azul 
+  --  ~p~ Violeta
+  --  ~o~ Naranja 
