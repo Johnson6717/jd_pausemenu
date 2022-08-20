@@ -1,14 +1,6 @@
 Este script cumple con la funcion de modificar esteticamente su menu de pausa de su servidor a gusto. 
 
-Los colores de las letras se pueden modificar desde el client.lua aqui abajo les dejo los colores:
-Colores 
-    ~w~ Blanco
-    ~r~ Rojo
-    ~g~ Verde
-    ~y~ Amarillo 
-    ~b~ Azul 
-    ~p~ Violeta
-    ~o~ Naranja 
+Los colores de las letras se pueden modificar desde el client.lua, en el client les dejo los colores disponibles!
 
 [Preview]
 
